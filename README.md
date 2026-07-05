@@ -1,16 +1,49 @@
-## Hi there 👋
+_____________________________________________________
 
-<!--
-**vaipal3456/vaipal3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      DEVOPS ENGINEER
 
-Here are some ideas to get you started:
+Docker | Kubernetes | Terraform | Azure | CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_____________________________________________________
+
+# Hi 👋 I'm Vaibhav Trivedi
+
+## DevOps Engineer | Cloud Engineer | Azure | Kubernetes | Docker | Terraform | GitHub Actions
+
+🚀 Passionate about Cloud Infrastructure and DevOps Automation.
+
+## 🛠 Skills
+
+- Azure
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
+- Jenkins
+- Python
+- Bash
+- Git
+
+## 🌱 Currently Learning
+
+- Azure AKS
+- Helm
+- ArgoCD
+- Azure DevOps
+- Monitoring
+
+## 📫 Contact
+
+LinkedIn:
+https://linkedin.com/in/vaibhav-trivedi-0b872923
+
+Email:
+vaibhav3456@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaipal3456&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaipal3456&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,github,git,python,bash,vscode" />
+
+</p>
